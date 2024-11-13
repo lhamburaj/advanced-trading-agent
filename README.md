@@ -65,6 +65,4 @@ Develop an advanced autonomous trading agent using CDP AgentKit that is capable 
 
 ---
 
-This project empowers users to leverage a fully autonomous trading agent capable of deploying smart contracts, minting NFTs, and trading assets on multiple blockchain platforms while continuously optimizing its performance.
 
-Let me know if you need further adjustments or additional features!
